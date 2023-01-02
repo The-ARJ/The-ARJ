@@ -1,5 +1,5 @@
 <h1>Aayush Raj Joshi</h1>
-<img src="https://avatars2.githubusercontent.com/u/[your_user_id]?v=4" alt="Aayush Raj Joshi's profile picture" width="200">
+<img src="[https://avatars2.githubusercontent.com/u/[your_user_id]?v=4](https://avatars.githubusercontent.com/u/78782354?v=4)" alt="Aayush Raj Joshi's profile picture" width="200">
 <h2>🙋‍♂️ About Me</h2>
 <p>Hi, I'm Aayush Raj Joshi and I am a software developer. I specialize in web and mobile development using various technologies such as the MERN stack, Django, HTML, CSS, JS, Bootstrap, Tailwind, and Flutter.</p>
 <h2>💻 My Skills</h2>
