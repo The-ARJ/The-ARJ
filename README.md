@@ -1,5 +1,5 @@
 <h1>Aayush Raj Joshi</h1>
-<a href="https://app.daily.dev/TheARJ"><img src="https://api.daily.dev/devcards/77f4bccc0a7140f694c4d9e41d4c933e.png?r=dlb" width="400" alt="Aayush Raj Joshi's Dev Card"/></a><h2>🙋‍♂️ About Me</h2>
+<a href="https://app.daily.dev/TheARJ"><img src="https://api.daily.dev/devcards/77f4bccc0a7140f694c4d9e41d4c933e.png?r=6dq" width="400" alt="Aayush Raj Joshi's Dev Card"/></a><h2>🙋‍♂️ About Me</h2>
 <p>Hi! 🙋‍♂️ My name is Aayush Raj Joshi and I am a software developer 💻. I have experience in a variety of technologies 💡 and am always eager to learn 🧠 and improve my skills 💪. I enjoy working on projects that challenge me 🤔 and allow me to create solutions 🧑 and solve problems 🧐. I am passionate about developing web 🌐 and mobile applications 📱  and am always looking for new opportunities to grow 🚀 and learn 📚.</p>
 <h2>💻 My Skills</h2>
 <ul>
